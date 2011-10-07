@@ -1,1 +1,11 @@
 maven repository to host public project not found elsewhere
+
+
+
+
+<repositories>
+	<repository>
+		<id>renaudr</id>
+		<url>https://github.com/renaud/maven_repo/tree/master/snapshots</url>
+	</repository>
+</repositories>
