@@ -1,9 +1,9 @@
 #!/bin/sh
 
-FILE=.jar
-GROUP_ID=
-ARTIFACT_ID=
-VERSION=
+FILE=uea-stemmer-0.1.jar
+GROUP_ID=com.uea
+ARTIFACT_ID=stemmer
+VERSION=0.1
 
 REPO=snapshot-repo
 URL=file:/Users/ren/dev/sources/maven_repo/snapshots/

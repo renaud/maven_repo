@@ -1,9 +1,9 @@
 #!/bin/sh
 
-FILE=.jar
-GROUP_ID=
-ARTIFACT_ID=
-VERSION=
+FILE=jules-utilities-2.1.1.jar
+GROUP_ID=de.jules
+ARTIFACT_ID=jules-utilities
+VERSION=2.1.1
 
 REPO=snapshot-repo
 URL=file:/Users/ren/dev/sources/maven_repo/snapshots/
