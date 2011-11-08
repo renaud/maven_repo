@@ -1,6 +1,7 @@
 maven repository to host public project not found elsewhere
 
-
+- script/               for single jars 
+- snapshot/, release/   the actual mvn repos
 
 
 <repositories>
