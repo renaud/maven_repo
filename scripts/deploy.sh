@@ -6,7 +6,7 @@ ARTIFACT_ID=
 VERSION=
 
 REPO=snapshot-repo
-URL=file:/Users/ren/dev/sources/maven_repo/snapshots/
+URL=file:/Users/richarde/dev/sources/maven_repo/snapshots/
 REMOTE_URL=https://github.com/renaud/maven_repo/raw/master/snapshots
 
 mvn deploy:deploy-file -Dfile=$FILE  -DgroupId=$GROUP_ID -DartifactId=$ARTIFACT_ID -Dversion=$VERSION -Dpackaging=jar -DrepositoryId=$REPO -Durl=$URL
