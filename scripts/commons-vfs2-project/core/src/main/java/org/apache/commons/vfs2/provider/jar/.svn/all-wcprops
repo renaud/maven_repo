@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar
+END
+JarFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar/JarFileSystem.java
+END
+JarURLConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar/JarURLConnectionImpl.java
+END
+JarFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar/JarFileObject.java
+END
+JarFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar/JarFileProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/jar/package.html
+END

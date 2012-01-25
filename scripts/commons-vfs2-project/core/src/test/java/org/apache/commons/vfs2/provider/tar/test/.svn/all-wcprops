@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test
+END
+NestedTbz2TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/NestedTbz2TestCase.java
+END
+NestedTgzTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/NestedTgzTestCase.java
+END
+NestedTarTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/NestedTarTestCase.java
+END
+Tbz2ProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/Tbz2ProviderTestCase.java
+END
+TgzProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/TgzProviderTestCase.java
+END
+LargeTarTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/LargeTarTestCase.java
+END
+TarProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/tar/test/TarProviderTestCase.java
+END

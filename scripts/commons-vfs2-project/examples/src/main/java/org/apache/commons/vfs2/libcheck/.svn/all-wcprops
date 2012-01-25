@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/examples/src/main/java/org/apache/commons/vfs2/libcheck
+END
+FtpCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/examples/src/main/java/org/apache/commons/vfs2/libcheck/FtpCheck.java
+END
+SftpCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/examples/src/main/java/org/apache/commons/vfs2/libcheck/SftpCheck.java
+END

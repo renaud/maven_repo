@@ -1,0 +1,8 @@
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+ <move todir="/Users/richarde/dev/sources/maven_repo/scripts/commons-vfs2-project/core/target/test-classes/test-data/code" failonerror="false">
+  <fileset dir="/Users/richarde/dev/sources/maven_repo/scripts/commons-vfs2-project/core/target/test-classes/code"/>
+ </move>
+</target>
+
+</project>

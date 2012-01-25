@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps
+END
+FtpsClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps/FtpsClientFactory.java
+END
+FtpsFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps/FtpsFileProvider.java
+END
+FtpsClientWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps/FtpsClientWrapper.java
+END
+FtpsFileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps/FtpsFileSystemConfigBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftps/package.html
+END

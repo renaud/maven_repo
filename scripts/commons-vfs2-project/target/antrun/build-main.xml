@@ -1,0 +1,7 @@
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+ <mkdir dir="/Users/richarde/dev/sources/maven_repo/scripts/commons-vfs2-project/target/osgi"/>
+ <touch file="/Users/richarde/dev/sources/maven_repo/scripts/commons-vfs2-project/target/osgi/MANIFEST.MF"/>
+</target>
+
+</project>

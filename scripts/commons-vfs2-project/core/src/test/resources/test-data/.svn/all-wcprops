@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data
+END
+test.tbz2
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.tbz2
+END
+test.mf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.mf
+END
+test.zip
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.zip
+END
+nested.tbz2
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/nested.tbz2
+END
+test.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.tgz
+END
+nested.zip
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/nested.zip
+END
+test.tar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.tar
+END
+nested.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/nested.tgz
+END
+nested.tar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/nested.tar
+END
+test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.jar
+END
+nested.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/nested.jar
+END
+test.policy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/test.policy
+END
+largefile.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/largefile.tar.gz
+END

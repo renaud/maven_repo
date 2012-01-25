@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2
+END
+Bzip2FileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/Bzip2FileProvider.java
+END
+BZip2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/BZip2Constants.java
+END
+CBZip2InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/CBZip2InputStream.java
+END
+CBZip2OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/CBZip2OutputStream.java
+END
+CRC.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/CRC.java
+END
+Bzip2FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/Bzip2FileSystem.java
+END
+Bzip2FileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/Bzip2FileObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/bzip2/package.html
+END

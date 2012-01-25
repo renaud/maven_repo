@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/LICENSE.txt
+END
+checkstyle-header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/checkstyle-header.txt
+END
+RELEASE-NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/RELEASE-NOTES.txt
+END
+checkstyle-suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/checkstyle-suppressions.xml
+END
+checkstyle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/checkstyle.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/pom.xml
+END
+findbugs-exclude-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/findbugs-exclude-filter.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/README.txt
+END
+doap_vfs.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/doap_vfs.rdf
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/checkstyle.xml
+END

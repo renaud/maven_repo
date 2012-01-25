@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.commons.vfs2.impl;version="2.0",org.apache.
+ commons.vfs2.provider.url;version="2.0",org.apache.commons.vfs2.provi
+ der.ftps;version="2.0",org.apache.commons.vfs2.provider.zip;version="
+ 2.0",org.apache.commons.vfs2.provider.jar;version="2.0",org.apache.co
+ mmons.vfs2.provider.bzip2;version="2.0",org.apache.commons.vfs2.provi
+ der.ftp;version="2.0",org.apache.commons.vfs2.auth;version="2.0",org.
+ apache.commons.vfs2.provider.sftp;version="2.0",org.apache.commons.vf
+ s2.provider.gzip;version="2.0",org.apache.commons.vfs2.cache;version=
+ "2.0",org.apache.commons.vfs2.tasks;version="2.0",org.apache.commons.
+ vfs2.provider.local;version="2.0",org.apache.commons.vfs2;version="2.
+ 0",org.apache.commons.vfs2.operations;version="2.0",org.apache.common
+ s.vfs2.operations.vcs;version="2.0",org.apache.commons.vfs2.provider.
+ compressed;version="2.0",org.apache.commons.vfs2.provider.temp;versio
+ n="2.0",org.apache.commons.vfs2.provider;version="2.0",org.apache.com
+ mons.vfs2.provider.webdav;version="2.0",org.apache.commons.vfs2.provi
+ der.res;version="2.0",org.apache.commons.vfs2.provider.http;version="
+ 2.0",org.apache.commons.vfs2.events;version="2.0",org.apache.commons.
+ vfs2.provider.ram;version="2.0",org.apache.commons.vfs2.provider.http
+ s;version="2.0",org.apache.commons.vfs2.provider.tar;version="2.0",or
+ g.apache.commons.vfs2.util;version="2.0"
+Tool: Bnd-0.0.255
+Bundle-Name: Commons VFS Core
+Created-By: 1.6.0_29 (Apple Inc.)
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.0
+Bnd-LastModified: 1323766108725
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: VFS is a Virtual File System library.
+Import-Package: com.jcraft.jsch,javax.crypto,javax.crypto.spec,javax.x
+ ml.parsers,org.apache.commons.collections.map,org.apache.commons.http
+ client,org.apache.commons.httpclient.auth,org.apache.commons.httpclie
+ nt.methods,org.apache.commons.httpclient.params,org.apache.commons.ht
+ tpclient.util,org.apache.commons.logging,org.apache.commons.net.ftp,o
+ rg.apache.commons.net.ftp.parser,org.apache.jackrabbit.webdav,org.apa
+ che.jackrabbit.webdav.client.methods,org.apache.jackrabbit.webdav.pro
+ perty,org.apache.jackrabbit.webdav.version,org.apache.jackrabbit.webd
+ av.xml,org.apache.tools.ant,org.w3c.dom
+Bundle-SymbolicName: org.apache.commons.vfs
+Bundle-DocURL: http://commons.apache.org/vfs/commons-vfs2/
+

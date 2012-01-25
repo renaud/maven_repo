@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.vfs2.provider.test.VirtualProviderTestCase
+-------------------------------------------------------------------------------
+Tests run: 58, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.135 sec

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.1 http://maven.apache.org/xsd/decoration-1.0.1.xsd" name="Commons VFS" xmlns="http://maven.apache.org/DECORATION/1.0.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <bannerRight>
+    <name>Commons VFS</name>
+    <src>../images/vfs-logo-white.png</src>
+    <href>../index.html</href>
+  </bannerRight>
+  <body>
+    <links>
+      <item name="Commons VFS Home" href="../index.html" />
+    </links>
+    <menu name="Commons VFS">
+      <item name="Overview" href="../index.html" />
+    </menu>
+    <menu ref="reports" />
+  </body>
+</project>

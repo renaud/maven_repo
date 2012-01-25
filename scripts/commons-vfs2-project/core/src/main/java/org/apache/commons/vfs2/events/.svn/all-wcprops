@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events
+END
+DeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events/DeleteEvent.java
+END
+CreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events/CreateEvent.java
+END
+AbstractFileChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events/AbstractFileChangeEvent.java
+END
+ChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events/ChangedEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/events/package.html
+END

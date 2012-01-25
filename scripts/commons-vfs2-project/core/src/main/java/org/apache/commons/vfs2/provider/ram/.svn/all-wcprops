@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram
+END
+RamFileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystemConfigBuilder.java
+END
+RamFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileSystem.java
+END
+RamFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileObject.java
+END
+RamFileData.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileData.java
+END
+RamFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileProvider.java
+END
+RamFileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileOutputStream.java
+END
+RamFileRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/RamFileRandomAccessContent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ram/package.html
+END

@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 123
+.*
+*.iml
+*.iws
+.project
+target
+dist
+lib
+*.log
+build.properties
+.classpath
+vfs_cache
+mytests
+junit*.properties
+javadoc*
+bin
+
+END

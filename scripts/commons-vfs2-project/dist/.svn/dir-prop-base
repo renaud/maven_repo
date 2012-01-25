@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 34
+*.iml
+target
+.*
+maven-eclipse.xml
+
+END

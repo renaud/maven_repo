@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http
+END
+HttpFileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileSystemConfigBuilder.java
+END
+HttpFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileSystem.java
+END
+HttpClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpClientFactory.java
+END
+HttpFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileObject.java
+END
+HttpFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileProvider.java
+END
+HttpFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileNameParser.java
+END
+HttpRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpRandomAccessContent.java
+END
+HttpFileContentInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/HttpFileContentInfoFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/http/package.html
+END

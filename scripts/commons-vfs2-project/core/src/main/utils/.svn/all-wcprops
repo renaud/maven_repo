@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/utils
+END
+create_archives.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/utils/create_archives.sh
+END

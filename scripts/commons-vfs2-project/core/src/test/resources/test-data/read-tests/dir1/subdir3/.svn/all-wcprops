@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/read-tests/dir1/subdir3
+END
+file2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/read-tests/dir1/subdir3/file2.txt
+END
+file3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/read-tests/dir1/subdir3/file3.txt
+END
+file1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/resources/test-data/read-tests/dir1/subdir3/file1.txt
+END

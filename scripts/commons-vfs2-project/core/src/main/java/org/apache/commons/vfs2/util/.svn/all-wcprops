@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util
+END
+Cryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/Cryptor.java
+END
+MonitorRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/MonitorRandomAccessContent.java
+END
+RandomAccessMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/RandomAccessMode.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/Messages.java
+END
+DefaultCryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/DefaultCryptor.java
+END
+CombinedResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/CombinedResources.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/package.html
+END
+Os.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/Os.java
+END
+EncryptUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/EncryptUtil.java
+END
+OsFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/OsFamily.java
+END
+MonitorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/MonitorInputStream.java
+END
+MonitorOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/MonitorOutputStream.java
+END
+FileObjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/FileObjectUtils.java
+END
+WeakRefFileListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/WeakRefFileListener.java
+END
+UserAuthenticatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/UserAuthenticatorUtils.java
+END
+CryptorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/CryptorFactory.java
+END
+DelegatingFileSystemOptionsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/util/DelegatingFileSystemOptionsBuilder.java
+END

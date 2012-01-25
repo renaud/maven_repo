@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.vfs2.provider.res.test.ResourceProviderTestCase
+-------------------------------------------------------------------------------
+Tests run: 56, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.134 sec

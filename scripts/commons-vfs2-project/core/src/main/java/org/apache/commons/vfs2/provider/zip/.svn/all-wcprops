@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/zip
+END
+ZipFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileSystem.java
+END
+ZipFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileObject.java
+END
+ZipFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/zip/ZipFileProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/zip/package.html
+END

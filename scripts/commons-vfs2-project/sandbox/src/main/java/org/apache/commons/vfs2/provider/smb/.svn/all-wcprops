@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb
+END
+SmbFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileNameParser.java
+END
+SmbFileRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileRandomAccessContent.java
+END
+SmbFileName.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileName.java
+END
+SmbFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileSystem.java
+END
+SmbFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileObject.java
+END
+SmbFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/SmbFileProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/smb/package.html
+END

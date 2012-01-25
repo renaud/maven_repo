@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp
+END
+FtpClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpClientFactory.java
+END
+FtpFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileObject.java
+END
+FtpFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileProvider.java
+END
+FtpFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileNameParser.java
+END
+FtpRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpRandomAccessContent.java
+END
+FtpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpClient.java
+END
+FTPClientWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FTPClientWrapper.java
+END
+FtpFileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystemConfigBuilder.java
+END
+FtpFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/FtpFileSystem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/ftp/package.html
+END

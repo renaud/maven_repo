@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local
+END
+LocalFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFileSystem.java
+END
+LocalFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFileNameParser.java
+END
+LocalFileRandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFileRandomAccessContent.java
+END
+WindowsFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/WindowsFileNameParser.java
+END
+DefaultLocalFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/DefaultLocalFileProvider.java
+END
+GenericFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/GenericFileNameParser.java
+END
+LocalFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFile.java
+END
+LocalFileName.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/LocalFileName.java
+END
+WindowsFileName.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/WindowsFileName.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/local/package.html
+END

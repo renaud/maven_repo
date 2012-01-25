@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2
+END
+FileSystemOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSystemOptions.java
+END
+VfsLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/VfsLog.java
+END
+Selectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/Selectors.java
+END
+FileSystemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSystemException.java
+END
+FileDepthSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileDepthSelector.java
+END
+FileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileObject.java
+END
+UserAuthenticationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/UserAuthenticationData.java
+END
+AllFileSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/AllFileSelector.java
+END
+NameScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/NameScope.java
+END
+FileSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSelector.java
+END
+FileName.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileName.java
+END
+FileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSystem.java
+END
+FileTypeHasNoContentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileTypeHasNoContentException.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileFilter.java
+END
+Resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/Resources.properties
+END
+FileContentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileContentInfo.java
+END
+FileFilterSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileFilterSelector.java
+END
+FileMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileMonitor.java
+END
+FileSelectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSelectInfo.java
+END
+RandomAccessContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/RandomAccessContent.java
+END
+VFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/VFS.java
+END
+UserAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/UserAuthenticator.java
+END
+FileContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileContent.java
+END
+FileNotFolderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileNotFolderException.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileNotFoundException.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/package.html
+END
+FileContentInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileContentInfoFactory.java
+END
+FileSystemManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSystemManager.java
+END
+Capability.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/Capability.java
+END
+FileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileSystemConfigBuilder.java
+END
+FileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileType.java
+END
+FileTypeSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileTypeSelector.java
+END
+FileListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileListener.java
+END
+FilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FilesCache.java
+END
+CacheStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/CacheStrategy.java
+END
+FileChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/FileChangeEvent.java
+END

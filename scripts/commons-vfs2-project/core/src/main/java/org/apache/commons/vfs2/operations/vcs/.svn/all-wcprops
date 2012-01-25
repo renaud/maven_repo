@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs
+END
+VcsStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsStatus.java
+END
+VcsUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsUpdateListener.java
+END
+VcsCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsCommit.java
+END
+VcsAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsAdd.java
+END
+VcsModifyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsModifyListener.java
+END
+VcsCommitListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsCommitListener.java
+END
+VcsLogEntryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsLogEntryHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/package.html
+END
+VcsDelete.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsDelete.java
+END
+VcsLogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsLogEntry.java
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/readme.html
+END
+VcsCheckout.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsCheckout.java
+END
+VcsRevert.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsRevert.java
+END
+VcsLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsLog.java
+END
+VcsUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/vcs/VcsUpdate.java
+END

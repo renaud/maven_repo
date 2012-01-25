@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache
+END
+SoftRefFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/SoftRefFilesCache.java
+END
+FileSystemAndNameKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/FileSystemAndNameKey.java
+END
+NullFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/NullFilesCache.java
+END
+LRUFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/LRUFilesCache.java
+END
+AbstractFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/AbstractFilesCache.java
+END
+DefaultFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/DefaultFilesCache.java
+END
+WeakRefFilesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/WeakRefFilesCache.java
+END
+OnCallRefreshFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/OnCallRefreshFileObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/cache/package.html
+END

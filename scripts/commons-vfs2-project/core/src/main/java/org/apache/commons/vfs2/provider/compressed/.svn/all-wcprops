@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/compressed
+END
+CompressedFileFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileProvider.java
+END
+CompressedFileFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileSystem.java
+END
+CompressedFileFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/compressed/CompressedFileFileObject.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/compressed/package.html
+END

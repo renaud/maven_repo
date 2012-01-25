@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations
+END
+AbstractFileOperationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/AbstractFileOperationProvider.java
+END
+FileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/FileOperation.java
+END
+FileOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/FileOperations.java
+END
+AbstractFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/AbstractFileOperation.java
+END
+DefaultFileOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/DefaultFileOperations.java
+END
+FileOperationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/FileOperationProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/operations/package.html
+END

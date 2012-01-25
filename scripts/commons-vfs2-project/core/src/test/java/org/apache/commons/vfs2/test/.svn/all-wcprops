@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test
+END
+ProviderDeleteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderDeleteTests.java
+END
+FileSystemManagerFactoryTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/FileSystemManagerFactoryTestCase.java
+END
+VerifyingFileSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/VerifyingFileSelector.java
+END
+AbstractProviderTestConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/AbstractProviderTestConfig.java
+END
+ProviderTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderTestSuite.java
+END
+ProviderRenameTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderRenameTests.java
+END
+UrlStructureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/UrlStructureTests.java
+END
+ProviderReadTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderReadTests.java
+END
+ProviderRandomReadTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderRandomReadTests.java
+END
+AbstractProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/AbstractProviderTestCase.java
+END
+CacheTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/CacheTestSuite.java
+END
+AbstractTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/AbstractTestSuite.java
+END
+ProviderTestConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderTestConfig.java
+END
+ProviderWriteAppendTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteAppendTests.java
+END
+UriTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/UriTests.java
+END
+ProviderCacheStrategyTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderCacheStrategyTests.java
+END
+ProviderRandomReadWriteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderRandomReadWriteTests.java
+END
+UrlTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/UrlTests.java
+END
+LastModifiedTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/LastModifiedTests.java
+END
+ProviderWriteTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ProviderWriteTests.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/FileInfo.java
+END
+NamingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/NamingTests.java
+END
+ContentTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/test/ContentTests.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/jar/test
+END
+JarProviderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/jar/test/JarProviderTestCase.java
+END
+NestedJarTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/test/java/org/apache/commons/vfs2/provider/jar/test/NestedJarTestCase.java
+END

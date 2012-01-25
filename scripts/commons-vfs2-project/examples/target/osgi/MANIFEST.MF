@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.commons.vfs2.example;version="2.0",org.apac
+ he.commons.vfs2.libcheck;version="2.0"
+Tool: Bnd-0.0.255
+Bundle-Name: Commons VFS Examples
+Created-By: 1.6.0_29 (Apple Inc.)
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.0
+Bnd-LastModified: 1323766210408
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: VFS is a Virtual File System library - Examples.
+Import-Package: com.jcraft.jsch,org.apache.commons.net.ftp,org.apache.
+ commons.vfs2
+Bundle-SymbolicName: org.apache.commons.vfs-examples
+Bundle-DocURL: http://commons.apache.org/vfs/commons-vfs2-examples/
+

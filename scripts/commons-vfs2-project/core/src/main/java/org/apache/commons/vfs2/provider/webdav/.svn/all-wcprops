@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav
+END
+WebdavFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileObject.java
+END
+WebdavFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileProvider.java
+END
+ExceptionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/ExceptionConverter.java
+END
+WebdavFileNameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileNameParser.java
+END
+WebdavFileContentInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileContentInfoFactory.java
+END
+WebdavFileSystemConfigBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileSystemConfigBuilder.java
+END
+WebdavFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavFileSystem.java
+END
+WebdavMethodRetryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/WebdavMethodRetryHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/core/src/main/java/org/apache/commons/vfs2/provider/webdav/package.html
+END

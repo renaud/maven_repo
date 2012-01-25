@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime
+END
+MimeFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeFileProvider.java
+END
+MimeFileContentInfoFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeFileContentInfoFactory.java
+END
+MimeAttributesMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeAttributesMap.java
+END
+MimeFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeFileSystem.java
+END
+MimeFileObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1159220/commons/proper/vfs/tags/commons-vfs2-project-2.0/sandbox/src/main/java/org/apache/commons/vfs2/provider/mime/MimeFileObject.java
+END
