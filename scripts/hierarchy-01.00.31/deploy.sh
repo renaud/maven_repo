@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FILE=herarchy.jar
+FILE=hierarchy.jar
 GROUP_ID=com.whitemagicsoftware
 ARTIFACT_ID=hierarchy
 VERSION=01.00.31
