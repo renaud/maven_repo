@@ -3,10 +3,13 @@ maven repository to host public project not found elsewhere
 - script/               for single jars 
 - snapshot/, release/   the actual mvn repos
 
-
 <repositories>
 	<repository>
-		<id>renaudr</id>
-		<url>https://github.com/renaud/maven_repo/tree/master/snapshots</url>
+		<id>ren_googlecode</id>
+		<url>https://ren-maven-repo.googlecode.com/git/snapshots/</url>
 	</repository>
 </repositories>
+
+
+push:
+?> git push googlecode master
