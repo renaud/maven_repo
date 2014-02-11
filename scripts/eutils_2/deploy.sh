@@ -4,7 +4,7 @@
 
 FILE=ncbi-eutils-axis2-2.0.jar
 GROUP_ID=gov.nih.nlm.ncbi
-ARTIFACT_ID=ncbi-eutils-axis2-2.0
+ARTIFACT_ID=ncbi-eutils-axis2
 VERSION=2.0
 
 REPO=snapshot-repo
