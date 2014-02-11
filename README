@@ -4,12 +4,18 @@ maven repository to host public project not found elsewhere
 - snapshot/, release/   the actual mvn repos
 
 <repositories>
-	<repository>
-		<id>ren_googlecode</id>
-		<url>https://ren-maven-repo.googlecode.com/git/snapshots/</url>
-	</repository>
+
+		<repository>
+			<name>Github personal repo (renaudr)</name>
+			<id>renaudr</id>
+			<url>https://github.com/renaud/maven_repo/raw/master/snapshots</url>
+		</repository>
+		<repository>
+			<name>Github personal repo (renaudr)</name>
+			<id>renaudr2</id>
+			<url>https://raw.github.com/renaud/maven_repo/master/snapshots</url>
+		</repository>
+
 </repositories>
 
 
-push:
-?> git push googlecode master
